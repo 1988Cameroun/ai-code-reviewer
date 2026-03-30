@@ -2,7 +2,6 @@
 
 > A dual-pass LLM evaluation system for automated code quality analysis. Built to mirror real-world AI model training workflows: systematic, auditable, and skeptical of its own output.
 
-![CI](https://github.com/yourusername/codesentinel/actions/workflows/ci.yml/badge.svg)
 
 ---
 
